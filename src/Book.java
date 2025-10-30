@@ -46,5 +46,6 @@ public class Book {
         System.out.println("Price   : " + getPrice());
         System.out.println("Discounted Price: " + calculateDiscount());
         System.out.println("Stock   : " + getStock());
+        System.out.println("Auli");
     }
 }
